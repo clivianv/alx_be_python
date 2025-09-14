@@ -3,6 +3,6 @@ number2 = 5
 Addition = number1 + number2
 Subtraction = number1 - number2
 Multiplication = number1 * number2
-print (Addition of {number1} and {number2} is: {15}.)
-print (Subtraction of {number1} and {number2} is: {5}.)
-print (Multiplication of {number1} and {number2} is: {50}.)
+print (f"Addition of {number1} and {number2} is: {15}")
+print (f"Subtraction of {number1} and {number2} is: {5}")
+print (f"Multiplication of {number1} and {number2} is: {50}")
