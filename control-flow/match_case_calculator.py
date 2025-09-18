@@ -12,5 +12,5 @@ match operation:
         if num2 != 0:
             result = num1 / num2
         else:
-            result = "Error: Division by zero is not allowed."
-print(f"The result is: {result}")
+            print(f"Cannot divide by zero")
+print(f"The result is {result}.")
